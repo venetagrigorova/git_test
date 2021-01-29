@@ -1,0 +1,1 @@
+This is Veneta's first git project!
